@@ -1,0 +1,1 @@
+These are a bunch of small games that I wrote when I was younger. These games took approximately 2-3 days each. While some of them work, some of them don't do anything. Also, not all of these are games - some are utilities.
